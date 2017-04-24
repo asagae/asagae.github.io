@@ -1,8 +1,8 @@
 # Alicia Tribble Sagae
 
-[academic home](https://github.com/asagae/asagae.github.io) | [publications](https://github.com/asagae/asagae.github.io) | [SconeEdit](https://github.com/asagae/asagae.github.io)
+[academic home](http://cs.cmu.edu/~atribble) | [publications](http://www.cs.cmu.edu/~atribble/Publications2013.htm) | [SconeEdit](http://www.cs.cmu.edu/~atribble/SconeEdit2013.htm)
 
-[github home](https://github.com/asagae/asagae.github.io) | [publications](https://github.com/asagae/asagae.github.io) | [SconeEdit](https://github.com/asagae/asagae.github.io)
+[github home](http://asagae.github.io)
 
 ## Education
 - Ph.D. in Language Technologies, Carnegie Mellon University 2010
