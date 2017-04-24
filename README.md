@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Alicia Tribble Sagae
 
-You can use the [editor on GitHub](https://github.com/asagae/asagae.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[academic home](https://github.com/asagae/asagae.github.io) | [publications](https://github.com/asagae/asagae.github.io) | [SconeEdit](https://github.com/asagae/asagae.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[github home](https://github.com/asagae/asagae.github.io) | [publications](https://github.com/asagae/asagae.github.io) | [SconeEdit](https://github.com/asagae/asagae.github.io)
 
-### Markdown
+## Education
+- Ph.D. in Language Technologies, Carnegie Mellon University 2010
+- M.Sc in Language Technologies, Carnegie Mellon University 2002
+- B.Sc in Mathematics (CS concentration), University of North Carolina at Chapel Hill, 2000
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Academic Summary
+My thesis research involved finding semantic representations for phrases and short sentences where connective syntax is sparse and background knowledge is extremely important. This work plays a role in semantic browsing of text as well as semantic matching and browsing of non-textual objects that are associated with natural language descriptions. I have also enjoyed working on knowledge base representation for non-expert users and on noun compound resolution.
 
-```markdown
-Syntax highlighted code block
+I performed this work with Dr. Scott E. Fahlman, in the Scone Knowledge Representation Group at CMU.
 
-# Header 1
-## Header 2
-### Header 3
+I am also interested in Machine Translation (MT), and I spent one year as a Visiting Researcher at the University of Karlsruhe, maintaining the shared CMU/UKA Arabic-English Statistical MT System.
 
-- Bulleted
-- List
+From September 2006 to July 2008 I pursued my thesis work remotely from Tokyo, Japan, where I had the opportunity to collaborate with the Tsujii Laboratory of the University of Tokyo on their GENIA project.
 
-1. Numbered
-2. List
+In July 2008 I joined Alelo, a serious-game technology company in Los Angeles.
 
-**Bold** and _Italic_ and `Code` text
+Please take a look at my publications and our knowledge-browsing tool, SconeEdit. You may also download my curriculum vita and my thesis: “Textual Inference for Retrieving Labeled Object Descriptions”.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asagae/asagae.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Thesis Committee
+- Scott E. Fahlman, Chair (LTI)
+- Eric Nyberg (LTI)
+- Carolyn Penstein-Rose (LTI)
+- Bruce W. Porter (Knowledge Systems Research Group, University of Texas, Austin)
+- Vibhu Mittal (Root -1 Research)
