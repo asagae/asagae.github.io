@@ -1,8 +1,6 @@
+[Home](http://asagae.github.io) | [Publications](https://asagae.github.io/publications) | [Academic](http://cs.cmu.edu/~atribble) | [SconeEdit](https://asagae.github.io/sedit)
+
 # Home
-
-[academic home](http://cs.cmu.edu/~atribble) | [publications](http://www.cs.cmu.edu/~atribble/Publications2013.htm) | [SconeEdit](http://www.cs.cmu.edu/~atribble/SconeEdit2013.htm)
-
-[github home](http://asagae.github.io) | [github pubs](https://asagae.github.io/publications)
 
 ## Education
 - Ph.D. in Language Technologies, Carnegie Mellon University 2010
