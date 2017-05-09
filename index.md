@@ -18,7 +18,7 @@ From September 2006 to July 2008 I pursued my thesis work remotely from Tokyo, J
 
 In July 2008 I joined Alelo, a serious-game technology company in Los Angeles.
 
-Please take a look at my publications and our knowledge-browsing tool, SconeEdit. You may also download my [curriculum vita](https://asagae.github.io/sagaeCV2017.pdf) and my [thesis:](https://asagae.github.io/sagaeTHES.pdf) “Textual Inference for Retrieving Labeled Object Descriptions”.
+Please take a look at my publications and our knowledge-browsing tool, SconeEdit. You may also download my [curriculum vita](https://asagae.github.io/sagaeCV2017.pdf) and my [thesis](https://asagae.github.io/sagaeTHES.pdf) “Textual Inference for Retrieving Labeled Object Descriptions”.
 
 ## Thesis Committee
 - Scott E. Fahlman, Chair (LTI)
