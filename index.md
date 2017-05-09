@@ -1,4 +1,4 @@
-[Home](http://asagae.github.io) | [Publications](https://asagae.github.io/publications) | [Academic](http://cs.cmu.edu/~atribble) | [SconeEdit](https://asagae.github.io/sedit)
+[Home](http://asagae.github.io) | [Publications](https://asagae.github.io/publications)  | [SconeEdit](https://asagae.github.io/sedit) | [cs.cmu.edu/~atribble](http://cs.cmu.edu/~atribble)
 
 # Home
 
