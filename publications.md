@@ -1,3 +1,5 @@
+[Home](http://asagae.github.io) | [Publications](https://asagae.github.io/publications) | [Academic](http://cs.cmu.edu/~atribble) | [SconeEdit](http://www.cs.cmu.edu/~atribble/SconeEdit2013.htm)
+
 # Publications
 
 Alicia Sagae and Scott E. Fahlman. Knowledge Resource Development for Identifying Matching Image Descriptions. in Proceedings of the 5th International Conference on Knowledge Engineering and Ontology Development (KEOD 2013). September 2013. acceptance rate 13%
