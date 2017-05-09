@@ -1,4 +1,4 @@
-# Alicia Tribble Sagae
+# Home
 
 [academic home](http://cs.cmu.edu/~atribble) | [publications](http://www.cs.cmu.edu/~atribble/Publications2013.htm) | [SconeEdit](http://www.cs.cmu.edu/~atribble/SconeEdit2013.htm)
 
