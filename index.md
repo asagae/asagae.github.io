@@ -1,6 +1,7 @@
 [Home](http://asagae.github.io) | [Publications](https://asagae.github.io/publications)  | [SconeEdit](https://asagae.github.io/sedit) | [cs.cmu.edu/~atribble](http://cs.cmu.edu/~atribble)
 
 # Home
+[Download my CV](https://asagae.github.io/sagaeCV2017.pdf)
 
 ## Education
 - Ph.D. in Language Technologies, Carnegie Mellon University 2010
