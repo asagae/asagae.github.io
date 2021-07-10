@@ -42,16 +42,16 @@ Alicia Tribble and Scott E. Fahlman. "Resolving Noun Compounds with Multi-use Do
 
 Alicia Tribble and Carolyn Rose. "Usable Browsers for Knowledge Acquisition" Poster Presentations of CHI-2006. Montreal, Quebec, April 24-27, 2006.
 
-Tanja Schultz, Qin Jin, Kornel Laskowski, Alicia Tribble, Alex Waibel."Improvements in NonVerbal Cue Identification Using Multilingual Phone Strings" in Proceedings of ACL02 Workshop on Speech-to-Speech Translation. Philadelphia, PA. July 2002.
+Tanja Schultz, Qin Jin, Kornel Laskowski, Alicia Tribble, Alex Waibel.["Improvements in NonVerbal Cue Identification Using Multilingual Phone Strings"](https://asagae.github.io/publications/ACL2002-phonestrings-W02-0714.pdf) in Proceedings of ACL02 Workshop on Speech-to-Speech Translation. Philadelphia, PA. July 2002.
 
-Tanja Schultz, Qin Jin, Kornel Laskowski, Alicia Tribble, Alex Waibel. "Speaker, Accent, and Language Identification Using PhoneStrings" in Proceedings of HLT-2002. San Diego, CA. March 2002.
+Tanja Schultz, Qin Jin, Kornel Laskowski, Alicia Tribble, Alex Waibel. ["Speaker, Accent, and Language Identification Using PhoneStrings"](https://asagae.github.io/publications/HLT2002_phonestrings.pdf) in Proceedings of HLT-2002. San Diego, CA. March 2002.
 
-Alicia Tribble, Stephan Vogel, and Alex Waibel. "Overlapping Phrase-level Translation Rules in an SMT Engine"in Proceedings of NLPKE 2003. Beijing, China. October 2003.
+Alicia Tribble, Stephan Vogel, and Alex Waibel. ["Overlapping Phrase-level Translation Rules in an SMT Engine"](https://asagae.github.io/publications/NLPKE2003-overlapping.pdf) in Proceedings of NLPKE 2003. Beijing, China. October 2003.
 
-Stephan Vogel, Ying Zhang, Alicia Tribble, Fei Huang, Ashish Venugopal, Bing Zhao, and Alex Waibel. "The CMU Statistical Translation System."in Proceedings of the MT Summit IX. New Orleans, LA. September 2003.
+Stephan Vogel, Ying Zhang, Alicia Tribble, Fei Huang, Ashish Venugopal, Bing Zhao, and Alex Waibel. ["The CMU Statistical Translation System."](https://asagae.github.io/publications/StephanVogel_MTSummitIX.pdf) in Proceedings of the MT Summit IX. New Orleans, LA. September 2003.
 
-Stephan Vogel, Alicia Tribble. "Improving Statistical Machine Translation for a Speech-to-Speech Translation Task." in Proceedings of ICSLP-2002 Workshop on Speech-to-Speech Translation. Boulder, CO. September 2002.
+Stephan Vogel, Alicia Tribble. ["Improving Statistical Machine Translation for a Speech-to-Speech Translation Task."](https://asagae.github.io/publications/ICSLP2002_i02_1901.pdf) in Proceedings of ICSLP-2002 Workshop on Speech-to-Speech Translation. Boulder, CO. September 2002.
 
-Alicia Tribble, Alon Lavie, Lori Levin. "Rapid Adaptive Development of Semantic Analysis Grammars" in Proceedings of the 9th International Conference on Theoretical and Methodological Issues in Machine Translation (TMI-2002) . Keihanna, Japan. March 2002.
+Alicia Tribble, Alon Lavie, Lori Levin. ["Rapid Adaptive Development of Semantic Analysis Grammars"](https://asagae.github.io/publications/Rapid_Adaptive_Development_of_Semantic_A.pdf) in Proceedings of the 9th International Conference on Theoretical and Methodological Issues in Machine Translation (TMI-2002) . Keihanna, Japan. March 2002.
 
 Lavie, A., L. Levin, T. Schultz, C.Langley, B. Han, A. Tribble, D. Gates, D. Wallace and K. Peterson. "Domain Portability in Speech-to-Speech Translation" in Proceedings of HLT-2001, San Diego, CA. March 2001.
