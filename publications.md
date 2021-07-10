@@ -12,17 +12,17 @@ Alicia Sagae, Jerry R. Hobbs, and Emily Ho. Efficient Cross-Cultural Models for 
 
 Jerry R. Hobbs, Alicia Sagae, and Suzanne Wertheim. Toward a Commonsense Theory of Microsociology: Interpersonal Relationships. in Proceedings of FOIS 2012. July 24-27, Graz, Austria. 2012.
 
-Alicia Sagae, W. Lewis Johnson, and Andre Valente. Conversational Agents in Language and Culture Training. in D. Perez-Marin and I. Pascual-Nieto (Eds.), Conversational Agents and Natural Language Interaction: Techniques and Effective Practices, pp. 358-377). Madrid: IGI Global. 2011.
+Alicia Sagae, W. Lewis Johnson, and Andre Valente. [Conversational Agents in Language and Culture Training.]() in D. Perez-Marin and I. Pascual-Nieto (Eds.), Conversational Agents and Natural Language Interaction: Techniques and Effective Practices, pp. 358-377). Madrid: IGI Global. 2011.
 
-Jerry R. Hobbs and Alicia Sagae. Toward a Commonsense Theory of Microsociology: Interpersonal Relationships. in Proceedings of the AAAI Spring Symposium. March, 2011.
+Jerry R. Hobbs and Alicia Sagae. [Toward a Commonsense Theory of Microsociology: Interpersonal Relationships.](https://asagae.github.io/publications/cs11-hobbs-sagae.pdf) in Proceedings of the AAAI Spring Symposium. March, 2011.
 
-Alicia Sagae, W. Lewis Johnson, and Stephen Bodnar. Validation of a Dialog System for Language Learners. in Proceedings of the The 11th annual SIGdial Meeting on Discourse and Dialogue. Tokyo, Japan. September, 2010.
+Alicia Sagae, W. Lewis Johnson, and Stephen Bodnar. [Validation of a Dialog System for Language Learners.](https://asagae.github.io/publications/SigDial2010-validation-W10-4344.pdf) in Proceedings of the The 11th annual SIGdial Meeting on Discourse and Dialogue. Tokyo, Japan. September, 2010.
 
-W. Lewis Johnson and Alicia Sagae. Adaptive Agent-Based Learning of Intercultural Communication Skills. in Proceedings of the User Modeling and Personalization Conference, Demonstration Sessions (UMAP 2010). June 2010.
+W. Lewis Johnson and Alicia Sagae. [Adaptive Agent-Based Learning of Intercultural Communication Skills.](https://asagae.github.io/publications/UMAP_PosterTemplate_final.pdf) in Poster Sessions of the User Modeling and Personalization Conference, Demonstration Sessions (UMAP 2010). June 2010.
 
-W. Lewis Johnson, Naveen Ashish, Stephen Bodnar, Alicia Sagae. Expecting the Unexpected: Warehousing and Analyzing Data from ITS Field Use. in Proceedings of ITS 2010 part II, LNCS 6095. June 2010.
+W. Lewis Johnson, Naveen Ashish, Stephen Bodnar, Alicia Sagae. [Expecting the Unexpected: Warehousing and Analyzing Data from ITS Field Use.](https://github.com/asagae/asagae.github.io/blob/master/publications/ITS_2010_Hoahu_poster.pdf) in Poster Sessions of ITS 2010 part II, LNCS 6095. June 2010.
 
-Alicia Sagae. Textual Inference for Retrieving Labeled Object Descriptions. Ph.D. Thesis. Carnegie Mellon University, Pittsburgh, PA. May 2010.
+Alicia Sagae. [Textual Inference for Retrieving Labeled Object Descriptions.](https://asagae.github.io/publications/sagaeTHES.pdf) Ph.D. Thesis. Carnegie Mellon University, Pittsburgh, PA. May 2010.
 
 Rohit Kumar, Alicia Sagae, and W. Lewis Johnson. ["Evaluating an Authoring Tool for Mini-Dialogs"](https://asagae.github.io/publications/aied09-minidialog-eval-poster.pdf) in Proceedings of AIED 2009 (Poster), Brighton, UK, July 2009.
 
