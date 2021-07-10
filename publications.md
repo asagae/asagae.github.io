@@ -2,7 +2,7 @@
 
 # Publications
 
-Alicia Sagae and Scott E. Fahlman. Knowledge Resource Development for Identifying Matching Image Descriptions. in Proceedings of the 5th International Conference on Knowledge Engineering and Ontology Development (KEOD 2013). September 2013. acceptance rate 13%
+Alicia Sagae and Scott E. Fahlman. [Knowledge Resource Development for Identifying Matching Image Descriptions.](https://asagae.github.io/publications/Sagae_IC3K2013_CameraReady.pdf) in Proceedings of the 5th International Conference on Knowledge Engineering and Ontology Development (KEOD 2013). September 2013. acceptance rate 13%
 
 Alicia Sagae, Jerry R. Hobbs, Suzanne Wertheim, Michael Agar, Emily Ho, and W. Lewis Johnson. Efficient Cultural Models of Verbal Behavior for Communicative Agents. in Proceedings of the 12th International Conference on Intelligent Virtual Agents (IVA 2012). September 2012.
 
