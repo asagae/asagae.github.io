@@ -24,13 +24,13 @@ W. Lewis Johnson, Naveen Ashish, Stephen Bodnar, Alicia Sagae. Expecting the Une
 
 Alicia Sagae. Textual Inference for Retrieving Labeled Object Descriptions. Ph.D. Thesis. Carnegie Mellon University, Pittsburgh, PA. May 2010.
 
-Rohit Kumar, Alicia Sagae, and W. Lewis Johnson. Evaluating an Authoring Tool for Mini-Dialogs" in Proceedings of AIED 2009 (Poster), Brighton, UK, July 2009.
+Rohit Kumar, Alicia Sagae, and W. Lewis Johnson. ["Evaluating an Authoring Tool for Mini-Dialogs"](https://asagae.github.io/publications/aied09-minidialog-eval-poster.pdf) in Proceedings of AIED 2009 (Poster), Brighton, UK, July 2009.
 
-Alicia Sagae, Rohit Kumar, W. Lewis Johnson. Scaling up in Speaking Proficiency by Supporting Robust Learning Behaviors. in Proceedings of AIED 2009 Workshop: Scalability Issues in AIED. Brighton, UK, July 2009.
+Alicia Sagae, Rohit Kumar, W. Lewis Johnson. ["Scaling up in Speaking Proficiency by Supporting Robust Learning Behaviors"](https://asagae.github.io/publications/aied09-scalability-POSTReview.pdf) in Proceedings of AIED 2009 Workshop: Scalability Issues in AIED. Brighton, UK, July 2009.
 
-Alicia Sagae, Baylor Wetzel, Andre Valente, W. Lewis Johnson. Culture-Driven Response Strategies for Virtual Human Behavior in Training Systems. in Proceedings of SLaTE-2009. Warwickshire, England, 2009.
+Alicia Sagae, Baylor Wetzel, Andre Valente, W. Lewis Johnson. ["Culture-Driven Response Strategies for Virtual Human Behavior in Training Systems"](https://asagae.github.io/publications/Slate2009-response.pdf) in Proceedings of SLaTE-2009. Warwickshire, England, 2009.
 
-Alicia Tribble, Jin-Dong Kim, Tomoko Ohta, Jun'ichi Tsujii. “A Comparison of Knowledge Resource Designs: Supporting Term-level Text Annotation”. in Proceedings of LREC-2008 Workshop: Building and evaluating resources for biotext mining. pp. 3-10, 2008.
+Alicia Tribble, Jin-Dong Kim, Tomoko Ohta, Jun'ichi Tsujii. “A Comparison of Knowledge Resource Designs: Supporting Term-level Text Annotation” in [Proceedings of LREC-2008 Workshop: Building and evaluating resources for biotext mining.](https://asagae.github.io/publications/2008_W4_Proceedings.pdf) pp. 3-10, 2008.(Proceedings linked)
 
 Alicia Tribble and Scott E. Fahlman. [“CMU-AT: Semantic Distance and Background Knowledge for Identifying Semantic Relations”](https://asagae.github.io/publications/Tribble-SemEval-Task4-post-review.pdf) in SemEval-2007 Workshop of ACL 2007. Prague, Czech Republic, 2007.
 
