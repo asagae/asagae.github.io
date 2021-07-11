@@ -4,15 +4,15 @@
 
 Alicia Sagae and Scott E. Fahlman. [Knowledge Resource Development for Identifying Matching Image Descriptions.](https://asagae.github.io/publications/Sagae_IC3K2013_CameraReady.pdf) in Proceedings of the 5th International Conference on Knowledge Engineering and Ontology Development (KEOD 2013). September 2013. acceptance rate 13%
 
-Alicia Sagae, Jerry R. Hobbs, Suzanne Wertheim, Michael Agar, Emily Ho, and W. Lewis Johnson. Efficient Cultural Models of Verbal Behavior for Communicative Agents. in Proceedings of the 12th International Conference on Intelligent Virtual Agents (IVA 2012). September 2012.
+Alicia Sagae, Jerry R. Hobbs, Suzanne Wertheim, Michael Agar, Emily Ho, and W. Lewis Johnson. Efficient Cultural Models of Verbal Behavior for Communicative Agents. Short Paper in Proceedings of the 12th International Conference on Intelligent Virtual Agents (IVA 2012). September 2012.
 
-W. Lewis Johnson and Alicia Sagae. Personalized refresher training based on a model of skill acquisition and decay. in Proceedings of the 2nd International Conference on Applied Digital Human Modeling. San Francisco, 2012.
+W. Lewis Johnson and Alicia Sagae. [Personalized refresher training based on a model of skill acquisition and decay.](https://asagae.github.io/publications/Personalized_Refresher_Training_Johnson_Sagae_2012.pdf) in Proceedings of the 2nd International Conference on Applied Digital Human Modeling. San Francisco, 2012.
 
-Alicia Sagae, Jerry R. Hobbs, and Emily Ho. Efficient Cross-Cultural Models for Communicative Agents. Proceedings of the 2nd International Conference on Cross-Cultural Decision Making. San Francisco, July 2012.
+Alicia Sagae, Jerry R. Hobbs, and Emily Ho. [Efficient Cross-Cultural Models for Communicative Agents.](https://asagae.github.io/publications/Efficient_Cross-Cultural_Models_Sagae_Ho_Hobbs_2012.pdf) Proceedings of the 2nd International Conference on Cross-Cultural Decision Making. San Francisco, July 2012.
 
-Jerry R. Hobbs, Alicia Sagae, and Suzanne Wertheim. Toward a Commonsense Theory of Microsociology: Interpersonal Relationships. in Proceedings of FOIS 2012. July 24-27, Graz, Austria. 2012.
+Jerry R. Hobbs, Alicia Sagae, and Suzanne Wertheim. [Toward a Commonsense Theory of Microsociology: Interpersonal Relationships.](https://asagae.github.io/publications/FOIS_Hobbs-Sagae-Wertheim_2012.pdf) in Proceedings of FOIS 2012. July 24-27, Graz, Austria. 2012.
 
-Alicia Sagae, W. Lewis Johnson, and Andre Valente. [Conversational Agents in Language and Culture Training.]() in D. Perez-Marin and I. Pascual-Nieto (Eds.), Conversational Agents and Natural Language Interaction: Techniques and Effective Practices, pp. 358-377). Madrid: IGI Global. 2011.
+Alicia Sagae, W. Lewis Johnson, and Andre Valente. [Conversational Agents in Language and Culture Training.](https://asagae.github.io/publications/Conv_Agents_BookChapter_2010-09-8_FinalPubCopyright.pdf) in D. Perez-Marin and I. Pascual-Nieto (Eds.), Conversational Agents and Natural Language Interaction: Techniques and Effective Practices, pp. 358-377). Madrid: IGI Global. 2011.
 
 Jerry R. Hobbs and Alicia Sagae. [Toward a Commonsense Theory of Microsociology: Interpersonal Relationships.](https://asagae.github.io/publications/cs11-hobbs-sagae.pdf) in Proceedings of the AAAI Spring Symposium. March, 2011.
 
