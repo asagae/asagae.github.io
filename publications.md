@@ -52,4 +52,4 @@ Tanja Schultz, Qin Jin, Kornel Laskowski, Alicia Tribble, Alex Waibel. ["Speaker
 
 Alicia Tribble, Alon Lavie, Lori Levin. ["Rapid Adaptive Development of Semantic Analysis Grammars"](https://asagae.github.io/publications/Rapid_Adaptive_Development_of_Semantic_A.pdf) in Proceedings of the 9th International Conference on Theoretical and Methodological Issues in Machine Translation (TMI-2002) . Keihanna, Japan. March 2002.
 
-Lavie, A., L. Levin, T. Schultz, C.Langley, B. Han, A. Tribble, D. Gates, D. Wallace and K. Peterson. "Domain Portability in Speech-to-Speech Translation" in Proceedings of HLT-2001, San Diego, CA. March 2001.
+Lavie, A., L. Levin, T. Schultz, C.Langley, B. Han, A. Tribble, D. Gates, D. Wallace and K. Peterson. ["Domain Portability in Speech-to-Speech Translation"](https://asagae.github.io/publications/Lavie-Domain-H01-1018.pdf) in Proceedings of HLT-2001, San Diego, CA. March 2001.
