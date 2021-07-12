@@ -14,7 +14,7 @@ Jerry R. Hobbs, Alicia Sagae, and Suzanne Wertheim. [Toward a Commonsense Theory
 
 Alicia Sagae, W. Lewis Johnson, and Andre Valente. [Conversational Agents in Language and Culture Training.](https://asagae.github.io/publications/Conv_Agents_BookChapter_2010-09-8_FinalPubCopyright.pdf) in D. Perez-Marin and I. Pascual-Nieto (Eds.), Conversational Agents and Natural Language Interaction: Techniques and Effective Practices, pp. 358-377). Madrid: IGI Global. 2011.
 
-Jerry R. Hobbs and Alicia Sagae. [Toward a Commonsense Theory of Microsociology: Interpersonal Relationships.](https://asagae.github.io/publications/cs11-hobbs-sagae.pdf) in Proceedings of the AAAI Spring Symposium. March, 2011.
+Jerry R. Hobbs and Alicia Sagae. [A Commonsense Theory of Microsociology: Interpersonal Relationships.](https://asagae.github.io/publications/cs11-hobbs-sagae.pdf) in Proceedings of the AAAI Spring Symposium. March, 2011.
 
 Alicia Sagae, W. Lewis Johnson, and Stephen Bodnar. [Validation of a Dialog System for Language Learners.](https://asagae.github.io/publications/SigDial2010-validation-W10-4344.pdf) in Proceedings of the The 11th annual SIGdial Meeting on Discourse and Dialogue. Tokyo, Japan. September, 2010.
 
