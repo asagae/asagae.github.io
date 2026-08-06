@@ -1,6 +1,9 @@
 [Home](http://asagae.github.io) | [Publications](https://asagae.github.io/publications)  | [SconeEdit](https://asagae.github.io/sedit) | [cs.cmu.edu/~atribble](http://cs.cmu.edu/~atribble)
 
-# Publications
+# Publications and Talks
+Alicia Sagae, Chia-Jung Lee, Sandeep Avula, Brandon Dang, and Vanessa Murdock. 2025. [A Use-Case Specific Dataset for Measuring Dimensions of Responsible Performance in LLM-generated Text](https://dl.acm.org/doi/10.1145/3746252.3761642). In Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25). Association for Computing Machinery, New York, NY, USA, 6518–6522. https://doi.org/10.1145/3746252.3761642
+
+Alicia Sagae, Nil-Jana Akpinar, Riccardo Fogliato, and Michael Kearns. Responsible AI in the Generative Era: Science and Practice. Tutorial session of the 7th ACM Conference on Fairness, Accountability, and Transparency ([FAccT 2024](https://facctconference.org/2024/index.html)). Rio de Janeiro, June 2024.
 
 Alicia Sagae and Scott E. Fahlman. [Knowledge Resource Development for Identifying Matching Image Descriptions.](https://asagae.github.io/publications/Sagae_IC3K2013_CameraReady.pdf) in Proceedings of the 5th International Conference on Knowledge Engineering and Ontology Development (KEOD 2013). September 2013. acceptance rate 13%
 
